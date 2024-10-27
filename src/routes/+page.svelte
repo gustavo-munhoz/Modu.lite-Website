@@ -4,4 +4,6 @@
 </script>
 
 <Header />
-<Mockup />
+<div class="pt-[100px]">
+	<Mockup class="relative -mt-20" />
+</div>
