@@ -14,7 +14,8 @@ export default {
       },
       fontFamily: {
         spaceGrotesk: ['"Space Grotesk"', 'sans-serif'],
-        jetBrainsMono: ['"JetBrains Mono"', 'sans-serif']
+        jetBrainsMono: ['"JetBrains Mono"', 'sans-serif'],
+        archivo: ['"Archivo"', 'sans-serif']
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
